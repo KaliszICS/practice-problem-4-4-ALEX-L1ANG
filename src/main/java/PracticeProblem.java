@@ -1,3 +1,10 @@
+/*
+File Name: Lesson 4.4 - Assumptions
+Author: Alex Liang
+Date Created: June 16, 2026
+Date Last Modified: June 16, 2026
+*/
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
